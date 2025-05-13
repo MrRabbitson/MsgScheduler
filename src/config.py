@@ -1,4 +1,4 @@
 TOKEN = 'bot token'
-chat_id = 5415663195
-BOT_USERNAME = "TimerSendMsgBot"
-USE_PROXY = False
+chat_id = support_chat_id
+BOT_USERNAME = "Username of bot"
+USE_PROXY = True
