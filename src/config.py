@@ -1,0 +1,4 @@
+TOKEN = '7804446713:AAEemppBX3IM4wi8ScUPe395lUz5wgmuhV4'
+chat_id = 5415663195
+BOT_USERNAME = "TimerSendMsgBot"
+USE_PROXY = False
